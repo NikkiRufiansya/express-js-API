@@ -4,3 +4,4 @@
 2. masuk ke folder
 3. npm init
 4. run node index.js
+
