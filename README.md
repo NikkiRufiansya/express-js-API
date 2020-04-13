@@ -4,4 +4,4 @@
 2. masuk ke folder
 3. npm init
 4. run node index.js
-
+5. link on rest api : https://app-express-js-api.herokuapp.com/
