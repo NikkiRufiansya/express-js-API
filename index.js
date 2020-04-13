@@ -7,9 +7,9 @@ app.use(cors())
 app.use(express.urlencoded({extended: true}))
 app.use('/', router, function (req, res) {
     res.send(
-        "Doc Rest API\
-         link : https://app-express-js-api.herokuapp.com/users\
-         method :get, post, put, delete\
+        "Doc Rest API<br>\
+         link : https://app-express-js-api.herokuapp.com/users<br>\
+         method :get, post, put, delete<br>\
     ")
 })
 app.listen(port, function() {
